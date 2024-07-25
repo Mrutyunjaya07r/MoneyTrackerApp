@@ -1,0 +1,66 @@
+input{
+    height: 35px;
+    width: 200px;
+    margin: 15px;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 10px;
+    border: 0.5px solid black;
+}
+#submit{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: 0.5px solid black;
+}
+#delete{
+    background-color: crimson;
+    color: wheat;
+}
+h1{
+    text-align: center;
+}
+table{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 200px;
+    background-color:darkblue;
+}
+th{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: chartreuse;
+    padding: 3px;
+}
+td{
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: orangered;
+    padding: 3px;
+}
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.balance{
+    height: 150px;
+    width: 250px;
+    background-color:coral;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.totalexpence{
+    height: 150px;
+    width: 250px;
+    background-color:goldenrod;
+    margin: 20px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
